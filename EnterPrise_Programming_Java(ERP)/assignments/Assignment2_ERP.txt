@@ -1,0 +1,27 @@
+Assignment 2 : Servlet
+---------------------------------------------------------
+
+1. What is HTTP protocol?
+2. What is the architecture of HTTP protocol?
+3. What is a web client and web server?
+4. What is a web application?
+5. Explain client-server architecture?
+6. What is CGI and how does it handle requests?
+7. What is a servlet?
+8. What is a deployment descriptor?
+9. How do you create a dynamic web project?
+10. How do you modify the web descriptor file?
+11. What is the use of an Apache Tomcat server?
+12. How do you add a project to a web server and run the first servlet?
+13. What is the servlet lifecycle?
+14. What are servlet lifecycle event methods?
+15. What are other ways to create a servlet application?
+16. What is the servlet API?
+17. What are the packages of the servlet API?
+18. Explain the jakarta.servlet classes, interfaces, and exceptions.
+19. What is ServletConfig and its use in an application?
+20. Explain servlet context and its use in a web application.
+21. What is Cookies?
+22. What is Session?
+23. How many number of ways there to track user?
+24. What is requestDispatcher?

@@ -1,0 +1,16 @@
+Assignment 1 : Submission Date : 5B30:6July2024 , 5B31: ,5B32: ,5B33: 2July2024 ,5B34: ,5B35:
+1) What is JDBC?
+2) Explain JDBC Architecture 
+3) Explain JDBC Components
+4) How to configure Eclipse to use MySQL database
+5) What is XML and Where it will use?
+6) Explain Build Automation Tool and its Types
+7) What is Maven & POM.xml file, write example of POM file to use MySQL Connector.
+8) Explain RowSet and its Types 
+9) What is Design Patterns, explain its Types 
+10) What is ERP ,explain involved key components
+11) Explain execute,executeUpdate,executeQuery,executeLargeUpdate,executeBatch methods 
+12) What is rule need to follow to write XML
+13) Differences between Statement and PreparedStatement 
+14) Explain Maven Lifecycle
+15) What is System Requirements to install Apache Maven-3.9.8

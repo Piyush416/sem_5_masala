@@ -1,0 +1,23 @@
+Assignment 3 : JSP
+-----------------------------------------------------------------------
+1) Explain the architecture of JSP) How does it compare to servlets in terms of request handling?
+2) Describe the role of JSP in a web application and how it interacts with other components such as servlets and databases.
+3) Illustrate the lifecycle of a JSP page with a detailed explanation of each phase.
+4) What are the different methods involved in the lifecycle of a JSP page? Explain each method with its purpose.
+5) What are directive tags in JSP? List and explain the three main types of directive tags.
+6) How does the `<%@ page %>` directive influence the behavior of a JSP page? Provide examples.
+7) What is a scriptlet in JSP? How is it different from an expression? Provide an example of each.
+8) Discuss the scope of variables declared inside a scriptlet. How does it affect the JSP page?
+9) Explain the purpose of expressions in JSP) How are they evaluated and outputted on the client side?
+10) Write a JSP page using expressions to calculate and display the sum of two numbers.
+11) What is a declarative tag in JSP? How is it used to define methods and variables? Provide an example.
+12) Discuss the scope and lifecycle of methods and variables defined using declarative tags in JSP.
+13) List and explain the various implicit objects available in JSP) How do they facilitate web development?
+14) Write a JSP page demonstrating the use of at least three different implicit objects.
+15) What are action tags in JSP? Describe their purpose and usage with examples.
+16) Explain the `<jsp:include>` and `<jsp:forward>` action tags. How do they differ in functionality?
+17) What is JSTL? How does it simplify JSP development?
+18) Provide examples of using JSTL core tags for iteration and conditional operations
+19) What is Expression Language (EL) in JSP? How does it enhance the readability and maintainability of JSP pages?
+20) Write a JSP page that demonstrates the use of EL to access and display data from request and session attributes
+
