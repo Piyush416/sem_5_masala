@@ -1,0 +1,20 @@
+##### ERP Practical Assignment ######
+
+1)Create a REST API using Spring Boot to display a message.
+String message = 'Hello';
+Test the API using Postman.
+
+2)Design and implement a RESTful API using Spring Boot for user authentication and test its endpoints using Postman
+
+3)Design and implement a RESTful API using Spring Boot for user registration, and test its functionality using Postman.
+
+4)Design and implement a RESTful API using Spring Boot to perform addition of two numbers. Test the API using Postman.
+
+
+// Properties of Spring
+Inversion Of Control (IoC)
+Aspect-Oriented Programming (AOP)
+Model-View-Controller(MVC)
+Data Access (JDBC, ORM)
+Transition Management 
+Spring Security

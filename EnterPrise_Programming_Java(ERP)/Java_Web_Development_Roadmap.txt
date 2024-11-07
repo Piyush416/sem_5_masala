@@ -1,0 +1,84 @@
+
+Java Web Development Roadmap
+
+1. Core Java (Weeks 1-4)
+   - Objective: Build a solid foundation in Java programming.
+   - Topics:
+     - OOP concepts (classes, objects, inheritance, polymorphism, encapsulation)
+     - Exception handling
+     - Collections framework
+     - Java I/O
+     - Multithreading
+     - Java 8+ features (Streams, Lambda expressions, Functional interfaces)
+   - Resources: "Effective Java" by Joshua Bloch, online courses (Udemy, Coursera)
+
+2. Frontend Basics (Weeks 5-8)
+   - Objective: Understand the basics of frontend development.
+   - Topics:
+     - HTML5, CSS3
+     - JavaScript (DOM manipulation, events, ES6+ features)
+     - Responsive design with CSS frameworks (Bootstrap)
+   - Resources: MDN Web Docs, freeCodeCamp for HTML/CSS/JavaScript.
+
+3. Java Servlets and JSP (Weeks 9-12)
+   - Objective: Learn the basics of building dynamic web applications.
+   - Topics:
+     - Java Servlets: handling HTTP requests and responses
+     - JSP (JavaServer Pages): dynamic web content creation
+     - Session management (cookies, HttpSession)
+     - MVC pattern
+   - Resources: "Head First Servlets and JSP" (if available), Oracle Java EE tutorials.
+
+4. Databases and JDBC (Weeks 13-16)
+   - Objective: Learn to integrate Java applications with databases.
+   - Topics:
+     - SQL (basic queries, joins, CRUD operations)
+     - JDBC (Java Database Connectivity): executing queries, connection pooling
+     - ORM basics with Hibernate (optional at this stage)
+   - Resources: MySQL/PostgreSQL tutorials, JDBC documentation.
+
+5. Spring Framework (Weeks 17-24)
+   - Objective: Master the most popular Java web development framework.
+   - Topics:
+     - Spring Core (Dependency Injection, Beans)
+     - Spring MVC (controllers, view resolvers)
+     - Spring Boot (auto-configuration, embedded servers)
+     - REST APIs with Spring Boot
+     - Spring Data JPA (with Hibernate)
+   - Resources: "Spring in Action" by Craig Walls, official Spring documentation.
+
+6. Version Control (Week 25)
+   - Objective: Learn version control using Git.
+   - Topics:
+     - Git basics (add, commit, push, pull)
+     - Branching and merging
+     - Collaboration on GitHub/GitLab
+   - Resources: Pro Git book, GitHub learning labs.
+
+7. Build Tools and Deployment (Weeks 26-28)
+   - Objective: Learn to build and deploy Java web applications.
+   - Topics:
+     - Maven/Gradle for project management
+     - Packaging applications (WAR/JAR files)
+     - Deploying on Apache Tomcat or other servers
+   - Resources: Maven documentation, Tomcat tutorials.
+
+8. Advanced Topics (Optional - Weeks 29-36)
+   - Objective: Dive into advanced web development concepts.
+   - Topics:
+     - Spring Security (authentication, authorization)
+     - Microservices with Spring Cloud
+     - Docker and containerization
+     - Testing (JUnit, Mockito)
+
+9. Hands-on Projects (Ongoing)
+   - Objective: Build real-world projects to apply your knowledge.
+   - Ideas:
+     - Personal blog (using Servlets/JSP)
+     - E-commerce site (using Spring Boot, REST API)
+     - User authentication system (Spring Security)
+
+10. Interview Preparation (Ongoing)
+   - Practice coding problems on LeetCode, HackerRank
+   - Learn about design patterns, algorithms, and system design
+   - Mock interviews for technical skills and problem-solving
